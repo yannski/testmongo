@@ -39,3 +39,5 @@ gem 'spring',        group: :development
 
 gem 'mongoid', '4.0.0.beta1'
 gem 'haml-rails'
+gem 'rails_12factor'
+gem 'puma'
